@@ -41,14 +41,14 @@ const Contact = () => {
           <CiLinkedin className='contact_option-icon'/>
           <h4>Linkdin</h4>
           <h5>Tarun Sahani</h5>
-          <a href="https://linkdin.com" target="_blank">Send a Message</a>
+          <a href="https://www.linkedin.com/in/tarun-sahani-436190210/" target="_blank">Send a Message</a>
         </article>
         
         <article className="contact__option">
           <AiOutlineInstagram className='contact_option-icon'/>
           <h4>Instagram</h4>
           <h5>tarun_Shani</h5>
-          <a href="https://instagram.com" target="_blank">Send a Message</a>
+          <a href="https://instagram.com/tarun_shani?igshid=YmMyMTA2M2Y=" target="_blank">Send a Message</a>
         </article>
 
         <article className="contact__option">

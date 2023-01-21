@@ -16,15 +16,15 @@ const Footer = () => {
         <li><a href="#experience">Experience</a></li>
         <li><a href="#services">Services</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#testimonials">Testimonials</a></li>
+        {/* <li><a href="#testimonials">Testimonials</a></li> */}
         <li><a href="#contact">Contact</a></li>
       </ul>
 
       <div className="footer_socials">
-        <a href="https://linkdin.com" target="_blank"><CiLinkedin/></a>
-        <a href="https://github.com" target="_blank"><AiOutlineGithub/></a>   
-        <a href="https://facebook.com" target="_blank"><AiOutlineFacebook/></a>        
-        <a href="https://instagram.com" target="_blank"><AiOutlineInstagram/></a>       
+        <a href="https://www.linkedin.com/in/tarun-sahani-436190210/" target="_blank"><CiLinkedin/></a>
+        <a href="https://github.com/Tarun8433" target="_blank"><AiOutlineGithub/></a>   
+        <a href="https://m.facebook.com/100015363316643/" target="_blank"><AiOutlineFacebook/></a>        
+        <a href="https://instagram.com/tarun_shani?igshid=YmMyMTA2M2Y=" target="_blank"><AiOutlineInstagram/></a>       
         <a href="https://api.whatsapp.com/send?phone+918433145573" target="_blank"><BsWhatsapp/></a>
       </div>
 

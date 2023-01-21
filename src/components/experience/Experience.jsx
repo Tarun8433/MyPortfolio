@@ -71,7 +71,7 @@ const Experience = () => {
                 <BsPatchCheckFill/>
                 <div>
                   <h4>Php</h4>
-                  <small className='text-light'>Intermediate</small>
+                  <small className='text-light'>Beginner</small>
                 </div>
               </article>
 
@@ -79,7 +79,7 @@ const Experience = () => {
                 <BsPatchCheckFill/>
                 <div>
                   <h4>Python</h4>
-                  <small className='text-light'>Intermediate</small>
+                  <small className='text-light'>Beginner</small>
                 </div>
               </article>
 
@@ -87,7 +87,7 @@ const Experience = () => {
                 <BsPatchCheckFill/>
                 <div>
                   <h4>MySql</h4>
-                  <small className='text-light'>Intermediate</small>
+                  <small className='text-light'>Beginner</small>
                 </div>
               </article>
 

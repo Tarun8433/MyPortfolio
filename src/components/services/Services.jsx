@@ -69,86 +69,48 @@ const Services = () => {
 
         <article className='service'>
           <div className="service__head">
-            <h3>Graphic Design & Video Editing</h3>
-          </div>
-
-          <ul className="service__list">
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing.</p>
-            </li>
-
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor.</p>
-            </li>
-
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam.</p>
-            </li>
-
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem, ipsum.</p>
-            </li>
-
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, illo corporis.</p>
-            </li>
-          </ul>
-        </article>
-
-        <article className='service'>
-          <div className="service__head">
             <h3>Web Development</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Website design and development.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing.</p>
+              <p>E-commerce development.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor.</p>
+              <p>Content management system.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam.</p>
+              <p>Responsive design.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, ipsum.</p>
+              <p>Web hosting and maintenance.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, illo corporis.</p>
+              <p>Database integration.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, illo corporis.</p>
+              <p>Integration with third-party services such as Payment gateways.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, illo corporis.</p>
+              <p>Website maintenance and updates.</p>
             </li>
           </ul>
         </article>
@@ -161,45 +123,84 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Mobile app design.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing.</p>
+              <p>Cross-platform app development.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor.</p>
+              <p>E-commerce app development.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam.</p>
+              <p>Content management systems integration.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, ipsum.</p>
+              <p>Push notifications and in-app messaging.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, illo corporis.</p>
+              <p>API integration.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, illo corporis.</p>
+              <p>Cloud-based solutions.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, illo corporis.</p>
+              <p>App maintenance and updates.</p>
             </li>
           </ul>
         </article>
+
+        <article className='service'>
+          <div className="service__head">
+            <h3>Graphic Design & Video Editing</h3>
+          </div>
+
+          <ul className="service__list">
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Video editing.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Color grading and color correction.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Motion graphics and visual effects.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Branding and identity design, including logos.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Website and digital design.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Social Media design.</p>
+            </li>
+          </ul>
+        </article>
+
       </div>
     </section>
   )
